@@ -9,7 +9,7 @@ git init
 3. Check file status	
 git status
 
-4. Add file(s) to be pushed	
+4. Add file(s) to be pushed		
 git add yourfiles
 
 5. Commit file(s)	
@@ -22,3 +22,6 @@ git remote add origin https://github.com/tuttoaposto/ProgrammingAssignment2.git
 git push -u origin master
 
 8. If need further modification of the same file, just take steps 4, 5, 7	
+
+
+## Indent items with 4 spaces to make ordered sublist
