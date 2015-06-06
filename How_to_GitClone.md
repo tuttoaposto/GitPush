@@ -17,7 +17,7 @@ git clone 'https://github.com/rdpeng/ExData_Plotting1.git'
 6. Move files to be pushed to the directory created in step 5   
 
 7. Add file(s) to be pushed   
-git add "*.png" "*.R"  (**all png and R files**)
+git add \*.png \*.R  (**all png and R files**)
 
 8. Commit file(s)    
 git commit -m 'first commit'   
